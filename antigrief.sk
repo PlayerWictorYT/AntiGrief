@@ -1,0 +1,15 @@
+on place of tnt:
+    cancel event
+    message "&cTnT Placing Is Disabled On This Server."
+on place of lava:
+    cancel event
+    message "&cLava Placing Is Disabled On This Server."
+on explode:
+    cancel event
+on right click with flint and steel:
+    cancel event
+    message "&cFlint And Steel Is Disabled On This Server."
+on enderman pickup:
+	cancel event
+on enderman place:
+	cancel event
